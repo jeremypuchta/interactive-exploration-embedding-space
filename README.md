@@ -1,3 +1,3 @@
 # Interactive Exploration of Embedding Spaces
 
-This repository contains the projekt files used for my master thesis.
+This repository contains the project files used for my master thesis.
